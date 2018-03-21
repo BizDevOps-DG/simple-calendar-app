@@ -2,202 +2,196 @@
 <resources>
     <string name="app_name">Paprastas kalendorius</string>
     <string name="app_launcher_name">Kalendorius</string>
-    <string name="change_view">Pakeisti peržiūrą</string>
-    <string name="daily_view">Dienos peržiūra</string>
-    <string name="weekly_view">Savaitės peržiūra</string>
-    <string name="monthly_view">Mėnesio peržiūra</string>
-    <string name="yearly_view">Metų peržiūra</string>
-    <string name="simple_event_list">Paprastas įvykių sąrašas</string>
-    <string name="no_upcoming_events">Atrodo jog Jūs neturite jokių įvyksiančių įvykių.</string>
-    <string name="add_some_events">Jūs galte pridėti įvykius su pliuso mygtuku apačioje.</string>
-    <string name="go_to_today">Eiti į šiandieną</string>
+    <string name="change_view">Pakeisti peržiura</string>
+    <string name="daily_view">Dienos peržiura</string>
+    <string name="weekly_view">Savaites peržiura</string>
+    <string name="monthly_view">Menesio peržiura</string>
+    <string name="yearly_view">Metu peržiura</string>
+    <string name="simple_event_list">Paprastas ivykiu sarašas</string>
+    <string name="no_upcoming_events">Atrodo jog Jus neturite jokiu ivyksianciu ivykiu.</string>
+    <string name="add_some_events">Jus galte prideti ivykius su pliuso mygtuku apacioje.</string>
+    <string name="go_to_today">Eiti i šiandiena</string>
 
     <!-- Widget titles -->
-    <string name="widget_monthly">Mėnesio kalendorius</string>
-    <string name="widget_list">Kalendoriaus įvykių sąrašas</string>
+    <string name="widget_monthly">Menesio kalendorius</string>
+    <string name="widget_list">Kalendoriaus ivykiu sarašas</string>
 
     <!-- Event -->
-    <string name="event">Įvykis</string>
-    <string name="edit_event">Redaguoti įvykį</string>
-    <string name="new_event">Naujas įvykis</string>
-    <string name="title_empty">Pavadinimas negali būti tuščias</string>
-    <string name="end_before_start">TĮvykis negali pasibaigti anksčiau nei jis prasideda</string>
-    <string name="event_added">Įvykis įtrauktas sėkmingai</string>
-    <string name="event_updated">Įvykis atnaujintas sėkmingai</string>
-    <string name="filter_events_by_type">Filtruoti įvykius pagal tipą</string>
-    <string name="please_fill_location">Prašome įvesti vietą, kad būtų rodoma žemėlapyje</string>
+    <string name="event">Ivykis</string>
+    <string name="edit_event">Redaguoti ivyki</string>
+    <string name="new_event">Naujas ivykis</string>
+    <string name="title_empty">Pavadinimas negali buti tušcias</string>
+    <string name="end_before_start">TIvykis negali pasibaigti anksciau nei jis prasideda</string>
+    <string name="event_added">Ivykis itrauktas sekmingai</string>
+    <string name="event_updated">Ivykis atnaujintas sekmingai</string>
+    <string name="filter_events_by_type">Filtruoti ivykius pagal tipa</string>
+    <string name="please_fill_location">Prašome ivesti vieta, kad butu rodoma žemelapyje</string>
 
     <!-- Event Repetition -->
     <string name="repetition">Pasikartojimas</string>
     <string name="no_repetition">Be pasikartojimo</string>
     <string name="daily">Kasdien</string>
-    <string name="weekly">Kas savaitę</string>
-    <string name="monthly">Kas mėnesį</string>
+    <string name="weekly">Kas savaite</string>
+    <string name="monthly">Kas menesi</string>
     <string name="yearly">Kasmet</string>
-    <string name="weeks_raw">Savaitės</string>
-    <string name="months_raw">Mėnesiai</string>
+    <string name="weeks_raw">Savaites</string>
+    <string name="months_raw">Menesiai</string>
     <string name="years_raw">Metai</string>
     <string name="repeat_till">Kartoti iki</string>
     <string name="forever">Visada</string>
-    <string name="event_is_repeatable">Įvykis pakartojamas</string>
-    <string name="selection_contains_repetition">Pasirinkimas susideda iš pasikartojančių įvykių</string>
-    <string name="delete_one_only">Ištrinti tik pasirinktą įvykį</string>
-    <string name="delete_all_occurrences">Ištrinti visus įvykius</string>
-    <string name="update_one_only">Atnaujinti tik pasirinktą įvykį</string>
-    <string name="update_all_occurrences">Atnaujinti visus įvykius</string>
+    <string name="event_is_repeatable">Ivykis pakartojamas</string>
+    <string name="selection_contains_repetition">Pasirinkimas susideda iš pasikartojanciu ivykiu</string>
+    <string name="delete_one_only">Ištrinti tik pasirinkta ivyki</string>
+    <string name="delete_all_occurrences">Ištrinti visus ivykius</string>
+    <string name="update_one_only">Atnaujinti tik pasirinkta ivyki</string>
+    <string name="update_all_occurrences">Atnaujinti visus ivykius</string>
     <string name="repeat_till_date">Pakartoti iki datos</string>
-    <string name="repeat_x_times">Pakartoti x kartusų</string>
+    <string name="repeat_x_times">Pakartoti x kartus/u</string>
     <string name="repeat_forever">Karoti amžinai</string>
     <string name="times">laikai</string>
     <string name="repeat">Kartoti</string>
     <string name="repeat_on">Kartoti per</string>
-    <string name="every_day">Kiekvieną dieną</string>
+    <string name="every_day">Kiekviena diena</string>
     <string name="selected_days">Pasirinktomis dienomis</string>
-    <string name="the_same_day">Tą pačią dieną</string>
-    <string name="the_last_day">Paskutinę dieną</string>
-    <string name="repeat_on_the_same_day">Pakartoti tą pačią kiekvieno mėnesio dieną</string>
-    <string name="repeat_on_the_last_day">Pakartoti paskutinę mėnesio dieną</string>
-    <string name="repeat_every_m">Pakartoti kiekvieną</string>
-    <string name="every_m">Kiekvieną</string>
-    <string name="first_m">Pirmą</string>
-    <string name="second_m">Antrą</string>
-    <string name="third_m">Trečią</string>
-    <string name="fourth_m">Ketvirtą</string>
-    <string name="last_m">Paskutinę</string>
+    <string name="the_same_day">Ta pacia diena</string>
+    <string name="the_last_day">Paskutine diena</string>
+    <string name="repeat_on_the_same_day">Pakartoti ta pacia kiekvieno menesio diena</string>
+    <string name="repeat_on_the_last_day">Pakartoti paskutine menesio diena</string>
+    <string name="repeat_every_m">Pakartoti kiekviena</string>
+    <string name="every_m">Kiekviena</string>
+    <string name="first_m">Pirma</string>
+    <string name="second_m">Antra</string>
+    <string name="third_m">Trecia</string>
+    <string name="fourth_m">Ketvirta</string>
+    <string name="last_m">Paskutine</string>
 
     <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
     <!-- used in repetition, like "Every first Sunday" -->
-    <string name="repeat_every_f">Pakartoti kiekvieną</string>
-    <string name="every_f">Kiekvieną</string>
-    <string name="first_f">Pirmą</string>
-    <string name="second_f">Antrą</string>
-    <string name="third_f">Trečią</string>
-    <string name="fourth_f">Ketvirtą</string>
-    <string name="last_f">Paskutinę</string>
+    <string name="repeat_every_f">Pakartoti kiekviena</string>
+    <string name="every_f">Kiekviena</string>
+    <string name="first_f">Pirma</string>
+    <string name="second_f">Antra</string>
+    <string name="third_f">Trecia</string>
+    <string name="fourth_f">Ketvirta</string>
+    <string name="last_f">Paskutine</string>
 
     <!-- Birthdays -->
     <string name="birthdays">Gimtadieniai</string>
-    <string name="add_birthdays">Pridėti kontaktų gimtadienius</string>
-    <string name="no_birthdays">Nerasta gimtadienių</string>
-    <string name="birthdays_added">Gimtadieniai įtraukti sėkmingai</string>
+    <string name="add_birthdays">Prideti kontaktu gimtadienius</string>
+    <string name="no_birthdays">Nerasta gimtadieniu</string>
+    <string name="birthdays_added">Gimtadieniai itraukti sekmingai</string>
 
     <!-- Anniversaries -->
     <string name="anniversaries">Sukaktys</string>
-    <string name="add_anniversaries">pridėti kontakto sukaktis</string>
-    <string name="no_anniversaries">Sukakčių nerasta</string>
-    <string name="anniversaries_added">Sukaktys įtrauktos sėkmingai</string>
+    <string name="add_anniversaries">prideti kontakto sukaktis</string>
+    <string name="no_anniversaries">Sukakciu nerasta</string>
+    <string name="anniversaries_added">Sukaktys itrauktos sekmingai</string>
 
     <!-- Event Reminders -->
     <string name="reminder">Priminimas</string>
     <string name="before">Prieš</string>
-    <string name="add_another_reminder">Pridėti kitą priminimą</string>
-    <string name="event_reminders">Įvykių priminimai</string>
+    <string name="add_another_reminder">Prideti kita priminima</string>
+    <string name="event_reminders">Ivykiu priminimai</string>
 
     <!-- Export / Import -->
-    <string name="import_events">Importuoti įvykius</string>
-    <string name="export_events">Eksportuoti įvykius</string>
-    <string name="import_events_from_ics">Importuoti įvykius iš .ics bylos</string>
-    <string name="export_events_to_ics">Eksportuoti įvykius į .ics bylą</string>
-    <string name="default_event_type">Numatytasis įvykio tipas</string>
-    <string name="export_past_events_too">Taip pat eksportuoti praėjusius įvykius</string>
-    <string name="include_event_types">Įtraukti įvykių tipus</string>
+    <string name="import_events">Importuoti ivykius</string>
+    <string name="export_events">Eksportuoti ivykius</string>
+    <string name="import_events_from_ics">Importuoti ivykius iš .ics bylos</string>
+    <string name="export_events_to_ics">Eksportuoti ivykius i .ics byla</string>
+    <string name="default_event_type">Numatytasis ivykio tipas</string>
+    <string name="export_past_events_too">Taip pat eksportuoti praejusius ivykius</string>
+    <string name="include_event_types">Itraukti ivykiu tipus</string>
     <string name="filename_without_ics">Bylos pavadinimas (be .ics)</string>
 
     <!-- Event details -->
     <string name="title">Pavadinimas</string>
     <string name="location">Vieta</string>
-    <string name="description">Apibūdinimas</string>
+    <string name="description">Apibudinimas</string>
     <string name="all_day">Visos dienos</string>
 
     <!-- Weekly view -->
-    <string name="week">Savaitė</string>
+    <string name="week">Savaite</string>
 
     <!-- Event types -->
-    <string name="event_types">Įvykių tipai</string>
-    <string name="add_new_type">Įtraukti naują tipą</string>
-    <string name="edit_type">Redaguoti tipą</string>
+    <string name="event_types">Ivykiu tipai</string>
+    <string name="add_new_type">Itraukti nauja tipa</string>
+    <string name="edit_type">Redaguoti tipa</string>
     <string name="type_already_exists">Tipas šiuo pvadinimu jau yra</string>
     <string name="color">Spalva</string>
-    <string name="regular_event">Įprastinis įvykis</string>
-    <string name="cannot_delete_default_type">Įprastinis įvykio tipas negali būti ištrintas</string>
-    <string name="select_event_type">Pasirinkti įvykio tipą</string>
-    <string name="move_events_into_default">Perkelti paveiktus įvykius į numatytojo įvykio tipą</string>
-    <string name="remove_affected_events">Iškart ištrinti paveiktus įvykius</string>
-    <string name="unsync_caldav_calendar">Kad ištrinti CalDAV kalendorių Jūs turite išsinchronizuoti jį</string>
+    <string name="regular_event">Iprastinis ivykis</string>
+    <string name="cannot_delete_default_type">Iprastinis ivykio tipas negali buti ištrintas</string>
+    <string name="select_event_type">Pasirinkti ivykio tipa</string>
+    <string name="move_events_into_default">Perkelti paveiktus ivykius i numatytojo ivykio tipa</string>
+    <string name="remove_affected_events">Iškart ištrinti paveiktus ivykius</string>
+    <string name="unsync_caldav_calendar">Kad ištrinti CalDAV kalendoriu Jus turite išsinchronizuoti ji</string>
 
     <!-- Holidays -->
     <string name="holidays">Atostogos</string>
-    <string name="add_holidays">Įtraukti atostogas</string>
-    <string name="national_holidays">Nacionalinės atostogos</string>
-    <string name="religious_holidays">Religinės atostogos</string>
-    <string name="holidays_imported_successfully">Atostogos sėkmingai importuotos į naujo įvykio tipą</string>
-    <string name="importing_some_holidays_failed">Kai kurių įvykių importavimas nepavyko</string>
-    <string name="importing_holidays_failed">Atostogų importavimas nepavyko</string>
+    <string name="add_holidays">Itraukti atostogas</string>
+    <string name="national_holidays">Nacionalines atostogos</string>
+    <string name="religious_holidays">Religines atostogos</string>
+    <string name="holidays_imported_successfully">Atostogos sekmingai importuotos i naujo ivykio tipa</string>
+    <string name="importing_some_holidays_failed">Kai kuriu ivykiu importavimas nepavyko</string>
+    <string name="importing_holidays_failed">Atostogu importavimas nepavyko</string>
 
     <!-- Settings -->
-    <string name="manage_event_types">Tvarkyti įvykių tipus</string>
-    <string name="start_day_at">Pradėti dieną nuo</string>
-    <string name="end_day_at">Užbaigti dieną nuo</string>
-    <string name="week_numbers">Rodyti savaičių numerius</string>
-    <string name="vibrate">Vibruoti per priminimo pranešimą</string>
+    <string name="manage_event_types">Tvarkyti ivykiu tipus</string>
+    <string name="start_day_at">Pradeti diena nuo</string>
+    <string name="end_day_at">Užbaigti diena nuo</string>
+    <string name="week_numbers">Rodyti savaiciu numerius</string>
+    <string name="vibrate">Vibruoti per priminimo pranešima</string>
     <string name="reminder_sound">Priminimo garsas</string>
-    <string name="no_ringtone_picker">Nerasta programėlės nustatančios skambėjimo toną</string>
-    <string name="no_ringtone_selected">Nėra</string>
-    <string name="day_end_before_start">Diena negali baigtis anksčiau nei prasideda</string>
+    <string name="no_ringtone_picker">Nerasta programeles nustatancios skambejimo tona</string>
+    <string name="no_ringtone_selected">Nera</string>
+    <string name="day_end_before_start">Diena negali baigtis anksciau nei prasideda</string>
     <string name="caldav_sync">CalDAV sinchronizavimas</string>
-    <string name="event_lists">Įvykių sąrašai</string>
-    <string name="display_past_events">Rodyti praeities įvykius</string>
-    <string name="replace_description_with_location">Pakeisti įvykio apibūdinimą į įvykio vietą</string>
-    <string name="delete_all_events">Ištrinti visus įvykius</string>
-    <string name="delete_all_events_confirmation">Ar Jūs tikrai norite ištrinti visus įvykius? Tai neištrins įvykių tipų ir kitų nustatymų.</string>
+    <string name="event_lists">Ivykiu sarašai</string>
+    <string name="display_past_events">Rodyti praeities ivykius</string>
+    <string name="replace_description_with_location">Pakeisti ivykio apibudinima i ivykio vieta</string>
+    <string name="delete_all_events">Ištrinti visus ivykius</string>
+    <string name="delete_all_events_confirmation">Ar Jus tikrai norite ištrinti visus ivykius? Tai neištrins ivykiu tipu ir kitu nustatymu.</string>
 
     <!-- CalDAV sync -->
     <string name="caldav">CalDAV</string>
     <string name="select_caldav_calendars">Pasirinkti kalendorius sinchronizavimui</string>
     <string name="manage_synced_calendars">Tvarkyti sinchronizuotus kalendorius</string>
-    <string name="store_locally_only">Saugoti tik vietinėje atmintyje</string>
+    <string name="store_locally_only">Saugoti tik vietineje atmintyje</string>
     <string name="refresh_caldav_calendars">Atnaujinti CalDAV kalendorius</string>
     <string name="refreshing">Atnaujinama…</string>
     <string name="refreshing_complete">Atnaujinimas pavyko</string>
     <string name="editing_calendar_failed">Kalendoriaus redagavimas nepavyko</string>
-    <string name="syncing">Sinchronizuojama…</string>
+    <string name="syncing">Sinchronizuojama</string>
     <string name="synchronization_completed">Sinchronizacija baigta</string>
 
     <!-- alternative versions for some languages, use the same translations if you are not sure what this means -->
     <!-- used in repetition, like "Every last Sunday" -->
-    <string name="monday_alt">Pirmadienį</string>
-    <string name="tuesday_alt">Antradienį</string>
-    <string name="wednesday_alt">Trečiadienį</string>
-    <string name="thursday_alt">Ketvirtadienį</string>
-    <string name="friday_alt">Penktadienį</string>
-    <string name="saturday_alt">Šeštadienį</string>
-    <string name="sunday_alt">Sekmadienį</string>
+    <string name="monday_alt">Pirmadieni</string>
+    <string name="tuesday_alt">Antradieni</string>
+    <string name="wednesday_alt">Treciadieni</string>
+    <string name="thursday_alt">Ketvirtadieni</string>
+    <string name="friday_alt">Penktadieni</string>
+    <string name="saturday_alt">Šeštadieni</string>
+    <string name="sunday_alt">Sekmadieni</string>
 
     <!-- List widget config example events -->
-    <string name="sample_title_1">Treniruotė</string>
-    <string name="sample_description_1">Kojų diena</string>
+    <string name="sample_title_1">Treniruote</string>
+    <string name="sample_description_1">Koju diena</string>
     <string name="sample_title_2">Susitikimas su Jonu</string>
-    <string name="sample_description_2">Akmenų sode</string>
+    <string name="sample_description_2">Akmenu sode</string>
     <string name="sample_title_3">Bibliotekoje/string>
-    <string name="sample_title_4">Pietūs su Marija</string>
+    <string name="sample_title_4">Pietus su Marija</string>
     <string name="sample_description_4">Dangoraižyje</string>
     <string name="sample_title_5">Kavos laikas</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Kaip galiu ištrinti atostogas importuotas per Įtraukti atostogas mygtuką</string>
-    <string name="faq_1_text">Atostogos sukuriamos per naują įvykio tipą Atostogos. Eikite į nustatymus Tvarkyti įvykių tipus,
-        ilgiau paspauskite ant duotojo įykio tipo ir ištrinkite jį pasirinkdami šiukšlinę.</string>
-    <string name="faq_2_title">Ar galiu sinchronizuoti savo įvykius per Google Kalendorių, ar kitą paslaugą palaikančią CalDAV</string>
-    <string name="faq_2_text">Taip, tiesiog pasirinkite CalDAV sinchronizavimas programėlės nustatymuose ir pasirinkite kalendorius kuriuos norite sinchronizuoti. Tačiau Jums reikės trečiosios šalies programėlės palaikančios sinchronizavimą tarp įrenginio ir serverių.
-        Jeigu norite sinchronizuoti Google kalendorių, jų oficiali kalendoriaus programėlė atliks šį darbą. Kitiems kalenoriams Jums reikės trečiosios šalies sinchronizavimo adapterio, pavyzdžiui DAVdroid.</string>
+    <string name="faq_1_title">Test</string>
+    <string name="faq_1_text">Test</string>
+    <string name="faq_2_title">Test</string>
+    <string name="faq_2_text">Test</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">paprastas kalendorius su įvykiais, tinkinamu valdikliu ir be reklamų.</string>
+    <string name="app_short_description">paprastas kalendorius su ivykiais, tinkinamu valdikliu ir be reklamu.</string>
     <string name="app_long_description">Testing</string>
 
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
-    -->
 </resources>
