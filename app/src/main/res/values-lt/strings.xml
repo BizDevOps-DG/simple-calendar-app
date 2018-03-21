@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Paprastas kalendorius</string>
+    <string name="app_name">Test</string>
     <string name="app_launcher_name">Kalendorius</string>
-    <string name="change_view">Pakeisti peržiura</string>
-    <string name="daily_view">Dienos peržiura</string>
-    <string name="weekly_view">Savaites peržiura</string>
-    <string name="monthly_view">Menesio peržiura</string>
-    <string name="yearly_view">Metu peržiura</string>
-    <string name="simple_event_list">Paprastas ivykiu sarašas</string>
-    <string name="no_upcoming_events">Atrodo jog Jus neturite jokiu ivyksianciu ivykiu.</string>
-    <string name="add_some_events">Jus galte prideti ivykius su pliuso mygtuku apacioje.</string>
-    <string name="go_to_today">Eiti i šiandiena</string>
+    <string name="change_view">Test</string>
+    <string name="daily_view">Test</string>
+    <string name="weekly_view">Test</string>
+    <string name="monthly_view">Test</string>
+    <string name="yearly_view">Test</string>
+    <string name="simple_event_list">Test</string>
+    <string name="no_upcoming_events">Test</string>
+    <string name="add_some_events">Test</string>
+    <string name="go_to_today">Test</string>
 
     <!-- Widget titles -->
-    <string name="widget_monthly">Menesio kalendorius</string>
-    <string name="widget_list">Kalendoriaus ivykiu sarašas</string>
+    <string name="widget_monthly">Test</string>
+    <string name="widget_list">Test</string>
 
     <!-- Event -->
-    <string name="event">Ivykis</string>
-    <string name="edit_event">Redaguoti ivyki</string>
-    <string name="new_event">Naujas ivykis</string>
-    <string name="title_empty">Pavadinimas negali buti tušcias</string>
-    <string name="end_before_start">TIvykis negali pasibaigti anksciau nei jis prasideda</string>
-    <string name="event_added">Ivykis itrauktas sekmingai</string>
-    <string name="event_updated">Ivykis atnaujintas sekmingai</string>
-    <string name="filter_events_by_type">Filtruoti ivykius pagal tipa</string>
-    <string name="please_fill_location">Prašome ivesti vieta, kad butu rodoma žemelapyje</string>
+    <string name="event">Test</string>
+    <string name="edit_event">Test</string>
+    <string name="new_event">Test</string>
+    <string name="title_empty">Test</string>
+    <string name="end_before_start">Test</string>
+    <string name="event_added">Test</string>
+    <string name="event_updated">Test</string>
+    <string name="filter_events_by_type">Test</string>
+    <string name="please_fill_location">Test</string>
 
     <!-- Event Repetition -->
     <string name="repetition">Pasikartojimas</string>
@@ -40,14 +40,14 @@
     <string name="repeat_till">Kartoti iki</string>
     <string name="forever">Visada</string>
     <string name="event_is_repeatable">Ivykis pakartojamas</string>
-    <string name="selection_contains_repetition">Pasirinkimas susideda iš pasikartojanciu ivykiu</string>
-    <string name="delete_one_only">Ištrinti tik pasirinkta ivyki</string>
-    <string name="delete_all_occurrences">Ištrinti visus ivykius</string>
+    <string name="selection_contains_repetition">Test</string>
+    <string name="delete_one_only">Test</string>
+    <string name="delete_all_occurrences">Test</string>
     <string name="update_one_only">Atnaujinti tik pasirinkta ivyki</string>
     <string name="update_all_occurrences">Atnaujinti visus ivykius</string>
     <string name="repeat_till_date">Pakartoti iki datos</string>
     <string name="repeat_x_times">Pakartoti x kartus/u</string>
-    <string name="repeat_forever">Karoti amžinai</string>
+    <string name="repeat_forever">Testa</string>
     <string name="times">laikai</string>
     <string name="repeat">Kartoti</string>
     <string name="repeat_on">Kartoti per</string>
@@ -96,12 +96,12 @@
     <!-- Export / Import -->
     <string name="import_events">Importuoti ivykius</string>
     <string name="export_events">Eksportuoti ivykius</string>
-    <string name="import_events_from_ics">Importuoti ivykius iš .ics bylos</string>
-    <string name="export_events_to_ics">Eksportuoti ivykius i .ics byla</string>
+    <string name="import_events_from_ics">Test</string>
+    <string name="export_events_to_ics">Test</string>
     <string name="default_event_type">Numatytasis ivykio tipas</string>
     <string name="export_past_events_too">Taip pat eksportuoti praejusius ivykius</string>
     <string name="include_event_types">Itraukti ivykiu tipus</string>
-    <string name="filename_without_ics">Bylos pavadinimas (be .ics)</string>
+    <string name="filename_without_ics">Test</string>
 
     <!-- Event details -->
     <string name="title">Pavadinimas</string>
@@ -149,7 +149,7 @@
     <string name="display_past_events">Rodyti praeities ivykius</string>
     <string name="replace_description_with_location">Pakeisti ivykio apibudinima i ivykio vieta</string>
     <string name="delete_all_events">Ištrinti visus ivykius</string>
-    <string name="delete_all_events_confirmation">Ar Jus tikrai norite ištrinti visus ivykius? Tai neištrins ivykiu tipu ir kitu nustatymu.</string>
+    <string name="delete_all_events_confirmation">Test</string>
 
     <!-- CalDAV sync -->
     <string name="caldav">CalDAV</string>
@@ -191,7 +191,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">paprastas kalendorius su ivykiais, tinkinamu valdikliu ir be reklamu.</string>
+    <string name="app_short_description">Test</string>
     <string name="app_long_description">Testing</string>
 
 </resources>
