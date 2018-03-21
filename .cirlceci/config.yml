@@ -21,8 +21,8 @@ jobs:
           - v1-dependencies-
           
       - run:
-         name: Chmod permissions #if permission for Gradlew Dependencies fail, use this. 
-         command: sudo chmod 777 ./gradlew
+         name: Chmod Permissions #if permission for Gradlew Dependencies fail, use this. 
+         command: sudo chmod +x ./gradlew
 
       - run:
          name: Download Dependencies
