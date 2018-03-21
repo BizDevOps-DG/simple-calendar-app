@@ -194,19 +194,7 @@
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">paprastas kalendorius su įvykiais, tinkinamu valdikliu ir be reklamų.</string>
-    <string name="app_long_description">
-        Paprastas kalendorius su CalDAV sinchronizacija. Galite lengvai kurti pasikartojančius įvykius ir nustatyti priminimus, kalendorius gali rodyti savaitės numerius.
-
-        Palaiko mėnesio peržiūrą ir įvykių sąrašo valdiklį, kuriame Jūs galite tinkinti teksto, pagrindinę ir fono spalvas.
-
-        Neturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
-
-        Saugyklos leidimas reikalingas tik eksportuoti ir importuoti įvykius iš .ics bylų.
-
-        Contaktų leidimas naudojamas tik importuoti kontaktų gimtadienius ir sukaktis.
-
-        Ši programėle yra vienintelė iš keletos mūsų programėlių. Likusias Jūs galite rasti čia http://www.simplemobiletools.com
-    </string>
+    <string name="app_long_description">Testing</string>
 
     <!--
         Haven't found some strings? There's more at
